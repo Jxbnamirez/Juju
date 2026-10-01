@@ -1,1 +1,53 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <item>
+        <question>ดาวเคราะห์ดวงใดได้ชื่อว่าเป็น "ดาวเคราะห์แดง"?</question>
+        <options>
+            <option>ดาวพุธ</option>
+            <option>ดาวอังคาร</option>
+            <option>ดาวพฤหัสบดี</option>
+            <option>ดาวศุกร์</option>
+        </options>
+        <answer>1</answer>
+    </item>
+    <item>
+        <question>ดาวเคราะห์ที่มีขนาดใหญ่ที่สุดในระบบสุริยะคือดวงใด?</question>
+        <options>
+            <option>ดาวเสาร์</option>
+            <option>โลก</option>
+            <option>ดาวพฤหัสบดี</option>
+            <option>ดาวเนปจูน</option>
+        </options>
+        <answer>2</answer>
+    </item>
+    <item>
+        <question>ดาวเคราะห์ดวงใดที่อยู่ใกล้ดวงอาทิตย์มากที่สุด?</question>
+        <options>
+            <option>ดาวพุธ</option>
+            <option>ดาวศุกร์</option>
+            <option>โลก</option>
+            <option>ดาวอังคาร</option>
+        </options>
+        <answer>0</answer>
+    </item>
+    <item>
+        <question>ดาวเคราะห์ดวงใดที่มีวงแหวนขนาดใหญ่และมองเห็นได้ชัดเจนที่สุด?</question>
+        <options>
+            <option>ดาวยูเรนัส</option>
+            <option>ดาวเนปจูน</option>
+            <option>ดาวเสาร์</option>
+            <option>ดาวพฤหัสบดี</option>
+        </options>
+        <answer>2</answer>
+    </item>
+    <item>
+        <question>ดาวเคราะห์ดวงใดที่ได้รับการขนานนามว่าเป็น "แฝดของโลก"?</question>
+        <options>
+            <option>ดาวอังคาร</option>
+            <option>ดาวศุกร์</option>
+            <option>ดาวพุธ</option>
+            <option>ดาวเนปจูน</option>
+        </options>
+        <answer>1</answer>
+    </item>
+</quiz>
